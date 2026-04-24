@@ -1,0 +1,2 @@
+pyd-resolusi
+- ini adalah langkah awal saya dalam menyelami dunia pemograman
