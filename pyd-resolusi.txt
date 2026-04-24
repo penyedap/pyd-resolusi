@@ -2,5 +2,4 @@ pyd-resolusi
 - ini adalah langkah awal saya dalam menyelami dunia pemograman
 - membuat website yang menarik: dan
 - berkolaborasi bersama expert
-- belajar mengenai view source
-- dan lain lain
+
