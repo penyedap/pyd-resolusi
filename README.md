@@ -1,2 +1,2 @@
 # pyd-resolusi
-sebagai tempat pembelajaran cara menggunakan git sampai kedepannya
+sebagai tempat pembelajaran cara menggunakan github sampai kedepannya
