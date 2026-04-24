@@ -4,3 +4,4 @@ RENCANA KONTEN PYD
 - membuat video tentang python
 - mempelajari angular
 - dan string beserta integer
+
