@@ -1,3 +1,4 @@
 RENCANA KONTEN PYD
-- video mengenai js
+- video mengenai javascript
 - video tentang css 
+- membuat video tentang python
